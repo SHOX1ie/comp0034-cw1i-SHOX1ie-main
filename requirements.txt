@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-Marshmallow
+marshmallow-sqlalchemy
+bcrypt
+pandas
+pytest
+selenium
+pytest-cov
+PyJWT
+faker
+pyarrow

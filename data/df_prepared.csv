@@ -1,0 +1,61 @@
+time_period,time_identifier,geographic_level,country_code,country_name,course_level_recoded,qts_status,employment_status,n_total,pct_n_total,pct_total_age_u25,pct_total_age_25andover,pct_total_sex_m,pct_total_sex_f,pct_total_ethnic_asian,pct_total_ethnic_black,pct_total_ethnic_mixed_ethnicity,pct_total_ethnic_other,pct_total_ethnic_white,pct_total_ethnic_unknown,pct_total_disability,pct_total_nondisability,pct_total_disability_unknown
+201718,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Teaching in a state-funded school,20503,80,81,80,76,82,78,81,82,79,81,78,77,81,93
+201718,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Total,25490,95,96,94,92,96,95,93,93,92,95,94,93,95,82
+201718,Academic year,National,E92000001,England,Postgraduate,Not awarded QTS,Total,1304,5,4,6,8,4,5,7,7,8,5,6,7,5,18
+201718,Academic year,National,E92000001,England,Postgraduate,Total,Total,26794,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+201718,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Teaching in a state-funded school,3706,78,79,75,74,79,76,79,81,71,78,33,74,79,67
+201718,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Total,4733,92,92,91,87,93,88,92,89,91,92,75,90,93,30
+201718,Academic year,National,E92000001,England,Undergraduate,Not awarded QTS,Total,406,8,8,9,13,7,12,8,11,9,8,25,10,7,70
+201718,Academic year,National,E92000001,England,Undergraduate,Total,Total,5139,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+201718,Academic year,National,E92000001,England,Total,Awarded QTS,Teaching in a state-funded school,24209,80,81,80,75,82,77,81,82,78,80,77,77,80,92
+201718,Academic year,National,E92000001,England,Total,Awarded QTS,Total,30223,95,95,94,92,96,94,93,93,92,95,93,92,95,76
+201718,Academic year,National,E92000001,England,Total,Not awarded QTS,Total,1710,5,5,6,8,4,6,7,7,8,5,7,8,5,24
+201718,Academic year,National,E92000001,England,Total,Total,Total,31933,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+201819,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Teaching in a state-funded school,20670,78,79,78,75,80,73,81,81,75,78,86,74,79,89
+201819,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Total,26402,95,96,94,92,96,95,94,95,95,95,94,92,96,94
+201819,Academic year,National,E92000001,England,Postgraduate,Not awarded QTS,Total,1348,5,4,6,8,4,5,6,5,5,5,6,8,4,6
+201819,Academic year,National,E92000001,England,Postgraduate,Total,Total,27750,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+201819,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Teaching in a state-funded school,3238,73,73,74,67,74,59,71,71,88,74,63,72,73,0
+201819,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Total,4443,90,90,90,84,92,89,88,91,100,90,89,85,91,0
+201819,Academic year,National,E92000001,England,Undergraduate,Not awarded QTS,Total,473,10,10,10,16,8,11,13,9,0,10,11,15,9,0
+201819,Academic year,National,E92000001,England,Undergraduate,Total,Total,4916,100,100,100,100,100,100,100,100,100,100,100,100,100,0
+201819,Academic year,National,E92000001,England,Total,Awarded QTS,Teaching in a state-funded school,23908,78,77,78,74,79,72,81,80,75,77,86,74,78,89
+201819,Academic year,National,E92000001,England,Total,Awarded QTS,Total,30845,94,95,94,91,96,94,94,95,95,94,94,90,95,94
+201819,Academic year,National,E92000001,England,Total,Not awarded QTS,Total,1821,6,5,6,9,4,6,6,5,5,6,6,10,5,6
+201819,Academic year,National,E92000001,England,Total,Total,Total,32666,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+201920,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Teaching in a state-funded school,19725,74,74,74,69,76,67,73,74,65,74,80,68,74,90
+201920,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Total,26751,96,97,95,93,97,96,95,95,96,96,96,93,96,95
+201920,Academic year,National,E92000001,England,Postgraduate,Not awarded QTS,Total,1172,4,3,5,7,3,4,5,5,4,4,4,7,4,5
+201920,Academic year,National,E92000001,England,Postgraduate,Total,Total,27923,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+201920,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Teaching in a state-funded school,2909,71,71,67,63,72,52,68,76,73,72,56,65,72,0
+201920,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Total,4117,91,90,93,82,92,89,83,93,88,91,47,88,91,0
+201920,Academic year,National,E92000001,England,Undergraduate,Not awarded QTS,Total,427,9,10,7,18,8,11,17,7,12,9,53,12,9,0
+201920,Academic year,National,E92000001,England,Undergraduate,Total,Total,4544,100,100,100,100,100,100,100,100,100,100,100,100,100,0
+201920,Academic year,National,E92000001,England,Total,Awarded QTS,Teaching in a state-funded school,22634,73,73,73,69,75,66,73,75,65,74,79,68,74,90
+201920,Academic year,National,E92000001,England,Total,Awarded QTS,Total,30868,95,95,95,92,96,95,95,95,96,95,95,92,96,95
+201920,Academic year,National,E92000001,England,Total,Not awarded QTS,Total,1599,5,5,5,8,4,5,5,5,4,5,5,8,4,5
+201920,Academic year,National,E92000001,England,Total,Total,Total,32467,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+202021,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Teaching in a state-funded school,21889,73,73,73,70,74,64,68,71,66,74,76,67,73,87
+202021,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Total,30101,95,96,94,92,96,94,92,95,93,95,95,91,96,94
+202021,Academic year,National,E92000001,England,Postgraduate,Not awarded QTS,Total,1597,5,4,6,8,4,6,8,5,7,5,5,9,4,6
+202021,Academic year,National,E92000001,England,Postgraduate,Total,Total,31698,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+202021,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Teaching in a state-funded school,2677,68,69,66,61,69,48,67,70,46,70,55,64,69,0
+202021,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Total,3934,88,88,88,79,89,86,74,78,89,88,73,83,89,0
+202021,Academic year,National,E92000001,England,Undergraduate,Not awarded QTS,Total,554,12,12,12,21,11,14,26,22,11,12,27,17,11,0
+202021,Academic year,National,E92000001,England,Undergraduate,Total,Total,4488,100,100,100,100,100,100,100,100,100,100,100,100,100,0
+202021,Academic year,National,E92000001,England,Total,Awarded QTS,Teaching in a state-funded school,24566,72,72,72,70,73,63,68,71,65,73,76,67,73,87
+202021,Academic year,National,E92000001,England,Total,Awarded QTS,Total,34035,94,94,94,91,95,93,92,93,92,94,94,90,95,94
+202021,Academic year,National,E92000001,England,Total,Not awarded QTS,Total,2151,6,6,6,9,5,7,8,7,8,6,6,10,5,6
+202021,Academic year,National,E92000001,England,Total,Total,Total,36186,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+202122,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Teaching in a state-funded school,22276,75,75,76,74,76,69,71,76,71,76,80,73,75,79
+202122,Academic year,National,E92000001,England,Postgraduate,Awarded QTS,Total,29511,93,94,92,89,95,93,92,92,93,93,93,89,93,94
+202122,Academic year,National,E92000001,England,Postgraduate,Not awarded QTS,Total,2236,7,6,8,11,5,7,8,8,7,7,7,11,7,6
+202122,Academic year,National,E92000001,England,Postgraduate,Total,Total,31747,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+202122,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Teaching in a state-funded school,2763,66,66,67,65,67,53,59,65,55,68,37,67,66,63
+202122,Academic year,National,E92000001,England,Undergraduate,Awarded QTS,Total,4162,80,79,85,72,81,77,64,79,73,81,44,74,81,86
+202122,Academic year,National,E92000001,England,Undergraduate,Not awarded QTS,Total,1048,20,21,15,28,19,23,36,21,28,19,56,26,19,14
+202122,Academic year,National,E92000001,England,Undergraduate,Total,Total,5210,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+202122,Academic year,National,E92000001,England,Total,Awarded QTS,Teaching in a state-funded school,25039,74,73,75,73,75,67,71,75,70,75,80,72,74,78
+202122,Academic year,National,E92000001,England,Total,Awarded QTS,Total,33673,91,90,92,88,92,91,90,90,91,91,92,87,92,93
+202122,Academic year,National,E92000001,England,Total,Not awarded QTS,Total,3284,9,10,8,12,8,9,10,10,9,9,8,13,8,7
+202122,Academic year,National,E92000001,England,Total,Total,Total,36957,100,100,100,100,100,100,100,100,100,100,100,100,100,100
